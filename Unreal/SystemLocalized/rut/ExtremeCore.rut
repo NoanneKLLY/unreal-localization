@@ -14,7 +14,7 @@ LevelEnterText="Вход в ядро материнского корабля"
 ; EN: AltMessage="Access to the Security Post granted."
 AltMessage="Доступ к посту охраны получен."
 ; EN: Hint="Go to the Security Post to gain access to the Primary Power Supply Core Generator."
-Hint="Идите на пост охраны чтобы получить доступ к Основному источнику питания ядра генератора."
+Hint="Идите на пост охраны? чтобы получить доступ к Основному источнику питания ядра генератора."
 
 [TranslatorEvent4]
 ; EN: Message="WARNING: Armed intruder detected. Close all access to the Source and to the Primary Power Supply. Preventing intruders from accessing the Core Generator is critical."
@@ -40,9 +40,9 @@ Hint="Дверь может быть открыта с контрольной п
 
 [TranslatorEvent11]
 ; EN: Message="ACCESS DENIED: The Intruder must be eliminated. All War Masters are being routed to this area upon arrival from the Source."
-Message="ДОСТУП ЗАПРЕЩЕН: Враг должен быть уничтожен. Всем мастерам направляться в этот сектор  по прибытии с Ядра."
+Message="ДОСТУП ЗАПРЕЩЕН: Враг должен быть уничтожен. Всем мастерам направляться в этот сектор по прибытии с Ядра."
 ; EN: Hint="Kill all the Skaarj to proceed to this area."
-Hint="Убейте всех Скааржей чтобы получить доступ к этой зоне."
+Hint="Убейте всех Скааржей, чтобы получить доступ к этой зоне."
 
 [TranslatorEvent12]
 ; EN: AltMessage="Cryo Pods status: Temperature constant, Power at nominal levels, security systems active."
@@ -58,4 +58,4 @@ AltMessage="Доступ к Ядру Генератора открыт."
 ; EN: Message="Emergency Power Supply, ACCESS DENIED: Primary Power Supply fully functional."
 Message="Аварийный источник энергии, ДОСТУП ЗАКРЫТ: Главный источник функционирует нормально."
 ; EN: Hint="Find the Core Generator and destroy it to gain access to this area."
-Hint="Найдите ядро генератора и уничтожьте его это позволит вам продолжить ваш путь в эту зону."
+Hint="Найдите ядро генератора и уничтожьте его, чтобы открыть доступ в эту зону."
