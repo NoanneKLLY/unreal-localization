@@ -2,10 +2,10 @@
 ; EN: Title="The Source Antechamber"
 Title="Вестибюль ведущий к Источнику"
 ; EN: LevelEnterText="Entering The Source Antechamber"
-LevelEnterText="Вход в Вестибюль ведущий к Источнику"
+LevelEnterText="Вход в Вестибюль, ведущий к Источнику"
 
 [LevelSummary]
 ; EN: Title="The Source Antechamber"
 Title="Вестибюль ведущий к Источнику"
 ; EN: LevelEnterText="Entering The Source Antechamber"
-LevelEnterText="Вход в Вестибюль ведущий к Источнику"
+LevelEnterText="Вход в Вестибюль, ведущий к Источнику"
